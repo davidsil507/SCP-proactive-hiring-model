@@ -1,0 +1,438 @@
+Legacy Service Line,Global Facility ID,GMO Last Name,Staffing Team,Client Start Up Date,Account / Hospital Name,City,State,County,Online Application
+HM,493712,Brimmer,CS Connect HM,12/1/2024,CHRISTUS Southern New Mexico-HM,Alamogordo,NM,Otero,Yes
+EM,9070,Brown,CS Connect EM,12/1/2024,CHRISTUS Southern New Mexico,Alamogordo,NM,Otero,Yes
+HM,496738,Brimmer,CS Connect HM,11/1/2024,CHRISTUS Health - Pine Street-HM,Texarkana,TX,Bowie,Yes
+EM,496740,Brown,CS Connect EM,11/1/2024,CHRISTUS Health - Pine Street,Texarkana,TX,Bowie,Yes
+HM,496741,Sherani,CS Connect CCM,11/1/2024,CHRISTUS Health - Pine Street-CC,Texarkana,TX,Bowie,Yes
+EM,496598,Dawson,Sierra - Silver,10/21/2024,LewisGale Christiansburg ER,Christiansburg,VA,Montgomery,Yes
+EM,496706,Malican,Frontier - Gold,10/8/2024,STHS ER Pharr,Pharr,TX,Hidalgo,No
+HM,496689,Core,Horizon - Green,10/1/2024,Research Medical Center-CC,Kansas City,MO,Jackson,
+HM,493712,Brimmer,CS Connect HM,10/1/2024,South Texas Health System Heart,McAllen,TX,Hidalgo,No
+EM,5824,Malican,Frontier - Gold,10/1/2024,South Texas Health System Edinburg,Edinburg,TX,Hidalgo,No
+EM,5904,Malican,Frontier - Gold,10/1/2024,South Texas Health System McAllen,McAllen,TX,Hidalgo,No
+EM,8655,Malican,Frontier - Gold,10/1/2024,South Texas Health System Children's,Edinburg,TX,Hidalgo,No
+HM,496670,Brimmer,CS Connect HM,9/10/2024,Longview ContinueCARE Hospital-HM,Longview,TX,Gregg,Yes
+HM,496690,Sherani,CS Connect HM,9/10/2024,Longview ContinueCARE Hospital-CC,Longview,TX,Gregg,Yes
+HM,496688,Core,Horizon - Silver,9/9/2024,Research Medical Center-HM,Kansas City,MO,Jackson,
+HM,496721,Hoskins,Colonial - Gold,8/19/2024,Henry County Medical Center-NeuroTELE,Paris,TN,Henry,Yes
+HM,496395,Brimmer,CS Connect HM,8/1/2024,CHRISTUS Mother Frances Hospital-Jacksonville-HM-TELE,Jacksonville,TX,Cherokee,Yes
+HM,496239,Brimmer,CS Connect HM,7/31/2024,CHRISTUS Southeast Texas-Jasper Memorial-HM,Jasper,TX,Jasper,Yes
+VH,496637,Brimmer,CS Connect HM,7/31/2024,CHRISTUS Southeast Texas-Jasper Memorial-HMTELE,Jasper,TX,Jasper,Yes
+EM,496635,Brown,CS Connect EM,7/18/2024,CHRISTUS Emergency Center,Texarkana,TX,Bowie,Yes
+VH,496401,Dawson,Sierra - Silver,7/15/2024,The Crisis Center at Highlands Community Services,Abingdon,VA,,No
+EM,1555,Dawson,Sierra - Silver,7/1/2024,Piedmont Fayette Hospital,Fayetteville,GA,Fayette,
+EM,3012,Frye,Heartland - Blue,7/1/2024,Munson Medical Center,Traverse City,MI,Grand Traverse,"Yes, electronic app"
+HM,496255,Brimmer,CS Connect HM,7/1/2024,CHRISTUS Mother Frances Hospital-Sulphur Springs-HM,Sulphur Springs,TX,Hopkins,Yes
+HM,496256,Brimmer,CS Connect HM,7/1/2024,CHRISTUS Mother Frances Hospital-Winnsboro-HM,Winnsboro,TX,Wood,Yes
+HM,496691,Brimmer,CS Connect HM,7/1/2024,CHRISTUS Spohn Hospital Corpus Christi-Shoreline-HMTELE,Corpus Christi,TX,Nueces,Yes
+HM,496321,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Joseph-Elgin - HM,Elgin,IL,Kane,Yes
+HM,496322,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Joseph-Joliet - HM,Joliet,IL,Will,Yes
+HM,496323,Hoskins,Colonial - Gold,6/1/2024,Ascension Mercy - HM,Aurora,IL,Kane,Yes
+HM,496324,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Mary-Kankakee - HM,Kankakee,IL,Kankakee,Yes
+HM,496325,Hoskins,Colonial - Gold,6/1/2024,Ascension Alexian Brothers - HM,Elk Grove Village,IL,Cook,Yes
+HM,496326,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Francis - HM,Evanston,IL,Cook,Yes
+HM,496327,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Alexius - HM,Hoffman Estates,IL,Cook,Yes
+HM,496328,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Joseph-Chicago - HM,Chicago,IL,Cook,Yes
+HM,496329,Hoskins,Colonial - Gold,6/1/2024,Ascension Resurrection - HM,Chicago,IL,Cook,Yes
+HM,496330,Hoskins,Colonial - Gold,6/1/2024,Ascension Saint Mary-Chicago - HM,Chicago,IL,Cook,Yes
+EM,496464,Dawson,Southwestern - Yellow,5/29/2024,AdventHealth ER Winter Haven,Winter Haven,FL,Polk,Yes
+EM,494426,Malican,Frontier - Gold,5/8/2024,Driscoll Children's Hospital Rio Grande Valley-PEDS,Edinburg,TX,Hidalgo,Yes
+HM,496240,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Alice-HM,Alice,TX,Jim Wells,Yes
+HM,496241,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Beeville-HM,Beeville,TX,Bee,Yes
+HM,496242,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Kleberg-HM,Kingsville,TX,Kleberg,Yes
+HM,496244,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Santa Rosa Hospital-New Braunfels-HM,New Braunfels,TX,Comal,Yes
+HM,496257,Sherani,CS Connect ISV,5/1/2024,CHRISTUS Santa Rosa Hospital-Medical Center-CC,San Antonio,TX,Bexar,Yes
+HM,496258,Sherani,CS Connect ISV,5/1/2024,CHRISTUS Santa Rosa Hospital-Westover Hills-CC,San Antonio,TX,Bexar,Yes
+HM,496495,Sherani,CS Connect ISV,5/1/2024,CHRISTUS Santa Rosa Hospital-New Braunfels-CC,New Braunfels,TX,Comal,Yes
+HM,496496,Sherani,CS Connect ISV,5/1/2024,CHRISTUS Santa Rosa Hospital-San Marcos-CC,San Marcos,TX,Hays,Yes
+HM,496556,Sherani,CS Connect ISV,5/1/2024,CHRISTUS Highland Medical Center-CC,Shreveport,LA,Caddo,Yes
+HM,496570,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Alice-HM-TELE,Alice,TX,Jim Wells,Yes
+HM,496571,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Beeville-HM-TELE,Beeville,TX,Bee,Yes
+HM,496572,Brimmer,CS Connect HM,5/1/2024,CHRISTUS Spohn Hospital-Kleberg-HM-TELE,Kingsville,TX,Kleberg,Yes
+VH,496340,Nichols,eHealth,4/23/2024,Hackensack University Medical Center-HM2H,Hackensack,NJ,,No
+VH,496341,Nichols,eHealth,4/23/2024,JFK University Medical Center-HM2H,Edison,NJ,,No
+VH,496342,Nichols,eHealth,4/23/2024,Jersey Shore University Medical Center-HM2H,Neptune City,NJ,,No
+HM,496188,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd Medical Center-Longview-HM,Longview,TX,Gregg,yes
+HM,496189,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd Medical Center-Marshall-HM,Marshall,TX,Harrison,Yes
+HM,496190,Sherani,CS Connect ISV,4/1/2024,CHRISTUS Good Shepherd Medical Center-Longview-CC,Longview,TX,Gregg,Yes
+HM,496192,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Mother Frances Hospital-Jacksonville-HM,Jacksonville,TX,Cherokee,Yes
+HM,496196,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Mother Frances Hospital-Tyler-HM,Tyler,TX,Smith,Yes
+HM,496197,Sherani,CS Connect ISV,4/1/2024,CHRISTUS Mother Frances Hospital-Tyler-CC,Tyler,TX,Smith,Yes
+HM,496224,Sherani,CS Connect ISV,4/1/2024,CHRISTUS St. Frances Cabrini Hospital-CC,Alexandria,LA,Rapides,Yes
+HM,496387,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd Medical Center-Longview-HM-TELE,Longview,TX,Gregg,Yes
+HM,496388,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Mother Frances Hospital-Tyler-HM-TELE,Tyler,TX,Smith,Yes
+HM,496389,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd Medical Center-Marshall-HM-TELE,Marshall,TX,Harrison,Yes
+HM,496602,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd Emergency Center-Kilgore-HMTELE,Kilgore,TX,Gregg,Yes
+HM,496603,Brimmer,CS Connect HM,4/1/2024,CHRISTUS Good Shepherd-NorthPark Medical Plaza-Emergency Room-HMTELE,Longview,TX,Gregg,Yes
+HM,8698,Brimmer,CS Connect HM,4/1/2024,Tyler ContinueCARE Hospital-HM,Tyler,TX,Smith,Yes
+HM,9991,Sherani,CS Connect ISV,4/1/2024,Riverside East-CC,Alexandria,LA,Rapides,
+HM,496291,Hoskins,Heartland - Blue,3/19/2024,Baptist Health - Fort Smith - HM,Fort Smith,AR,Sebastian,
+HM,496454,Hoskins,Colonial - Blue,3/18/2024,Atrium Medical Center-HM,Middletown,OH,Warren,Yes
+HM,496455,Hoskins,Colonial - Blue,3/18/2024,Upper Valley Medical Center-HM,Troy,OH,Miami,Yes
+HM,496456,Hoskins,Colonial - Blue,3/18/2024,Miami Valley Hospital-HM,Dayton,OH,Montgomery,Yes
+HM,496457,Hoskins,Colonial - Blue,3/18/2024,Miami Valley Hospital South-HM,Centerville,OH,Montgomery,Yes
+HM,496458,Hoskins,Colonial - Blue,3/18/2024,Miami Valley Hospital North-HM,Englewood,OH,Montgomery,Yes
+EM,2963,Malican,Heartland - Blue,3/1/2024,Charlevoix Area Hospital,Charlevoix,MI,Charlevoix,"Yes, electronic, paper DOP forms"
+EM,496230,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Hospital-Medical Center,San Antonio,TX,Bexar,Yes
+EM,496232,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Hospital-San Marcos,San Marcos,TX,Hays,Yes
+EM,496234,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Hospital-Westover Hills,San Antonio,TX,Bexar,Yes
+EM,496243,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Hospital-New Braunfels,New Braunfels,TX,Comal,Yes
+EM,496245,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Hospital-Alamo Heights,San Antonio,TX,Bexar,Yes
+EM,496246,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Emergency Center-Alon,San Antonio,TX,Bexar,Yes
+EM,496247,Brown,CS Connect EM,3/1/2024,CHRISTUS Santa Rosa Emergency Center-Creekside,New Braunfels,TX,Comal,Yes
+EM,496248,Brown,CS Connect EM,3/1/2024,CHRISTUS Children's Emergency Center-Stone Oak,San Antonio,TX,Bexar,Yes
+EM,496250,Brown,CS Connect EM,3/1/2024,CHRISTUS Children's Emergency Center-Westover Hills,San Antonio,TX,Bexar,Yes
+HM,496252,Sherani,CS Connect ISV,2/27/2024,CHRISTUS St. Michael Hospital-CC,Texarkana,TX,Bowie,Yes
+VH,496343,Nichols,eHealth,2/20/2024,University of Michigan Hospital-HM2H,Ann Arbor,MI,Washtenaw,No
+EM,2977,Malican,Heartland - Blue,2/1/2024,Otsego Memorial Hospital,Gaylord,MI,Otsego,"Yes, electronic, paper DOP forms"
+EM,495140,Brown,CS Connect EM,2/1/2024,CHRISTUS Hospital - Orange,Orange,TX,Orange,Yes
+HM,496219,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Highland Medical Center-HM,Shreveport,LA,Caddo,Yes
+HM,496220,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Frances Cabrini Hospital-HM,Alexandria,LA,Rapides,Yes
+HM,496223,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Ochsner St. Patrick Hospital-HM,Lake Charles,LA,Calcasieu,Yes
+HM,496231,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-Medical Center-HM,San Antonio,TX,Bexar,Yes
+HM,496233,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-San Marcos-HM,San Marcos,TX,Hays,Yes
+HM,496235,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-Westover Hills-HM,San Antonio,TX,Bexar,Yes
+HM,496236,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Spohn Hospital Corpus Christi-Shoreline-HM,Corpus Christi,TX,Nueces,Yes
+HM,496237,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Spohn Hospital Corpus Christi-South-HM,Corpus Christi,TX,Nueces,Yes
+HM,496238,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Michael Hospital-HM,Texarkana,TX,Bowie,Yes
+HM,496253,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Michael Hospital-Atlanta-HM,Atlanta,TX,Cass,Yes
+HM,496254,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Southeast Texas-St. Elizabeth Hospital-HM,Beaumont,TX,Jefferson,Yes
+HM,496354,Core,Horizon - Yellow,2/1/2024,Jackson Health System - Jackson North Medical Center - HM,North Miami Beach,FL,Miami-Dade,Yes
+HM,496372,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Spohn Hospital Corpus Christi-South-HM-TELE,Corpus Christi,TX,Nueces,Yes
+HM,496373,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-Medical Center-HM-TELE,San Antonio,TX,Bexar,Yes
+HM,496374,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-San Marcos-HM-TELE,San Marcos,TX,Hays,Yes
+HM,496375,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Santa Rosa Hospital-Westover Hills-HM-TELE,San Antonio,TX,Bexar,Yes
+HM,496377,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Southeast Texas-St. Elizabeth Hospital-HM-TELE,Beaumont,TX,Jefferson,Yes
+HM,496378,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Michael Hospital-Atlanta-HM-TELE,Atlanta,TX,Cass,Yes
+HM,496379,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Highland Medical Center-HM-TELE,Shreveport,LA,Caddo,Yes
+HM,496383,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Frances Cabrini Hospital-HM-TELE,Alexandria,LA,Rapides,Yes
+HM,496384,Brimmer,CS Connect HM,2/1/2024,CHRISTUS St. Michael Hospital-HM-TELE,Texarkana,TX,Bowie,Yes
+HM,496385,Brimmer,CS Connect HM,2/1/2024,CHRISTUS Ochsner St. Patrick Hospital-HM-TELE,Lake Charles,LA,Calcasieu,Yes
+EM,496390,Malican,Heartland - Blue,1/28/2024,Franciscan Health Crown Point - OBS,Crown Point,IN,Lake,Yes
+EM,494862,Hoskins,Colonial - Blue,1/15/2024,UMMC Holmes County Hospital-ICP,Lexington,MS,Holmes,Yes
+EM,2924,Malican,Heartland - Blue,11/1/2023,Grayling Hospital,Grayling,MI,Crawford,"Yes, electronic app"
+EM,2966,Malican,Heartland - Blue,11/1/2023,Manistee Hospital,Manistee,MI,Manistee,"Yes, electronic app"
+EM,2997,Malican,Heartland - Blue,11/1/2023,Paul Oliver Memorial Hospital,Frankfort,MI,Benzie,
+EM,2999,Malican,Heartland - Blue,11/1/2023,Cadillac Hospital,Cadillac,MI,Wexford,"Yes, electronic, paper DOP forms"
+HM,8420,Hoskins,Colonial - Black,10/16/2023,Ochsner Baptist Medical Center-HM,New Orleans,LA,Orleans,Yes
+EM,496191,Brown,CS Connect EM,10/1/2023,CHRISTUS Mother Frances Hospital-Jacksonville,Jacksonville,TX,Cherokee,Yes
+EM,496193,Brown,CS Connect EM,10/1/2023,CHRISTUS Mother Frances Hospital-South Tyler,Tyler,TX,Smith,Yes
+EM,496195,Brown,CS Connect EM,10/1/2023,CHRISTUS Mother Frances Hospital-Tyler,Tyler,TX,Smith,Yes
+EM,496213,Brown,CS Connect EM,10/1/2023,CHRISTUS Emergency Care Center-Athens,Athens,TX,Henderson,Yes
+EM,496214,Brown,CS Connect EM,10/1/2023,CHRISTUS Emergency Care Center-Canton,Canton,TX,Van Zandt,Yes
+EM,496215,Brown,CS Connect EM,10/1/2023,CHRISTUS Emergency Care Center-Lindale,Lindale,TX,Smith,Yes
+EM,496216,Brown,CS Connect EM,10/1/2023,CHRISTUS Mother Frances Hospital-Sulphur Springs,Sulphur Springs,TX,Hopkins,Yes
+EM,496217,Brown,CS Connect EM,10/1/2023,CHRISTUS Mother Frances Hospital-Winnsboro,Winnsboro,TX,Wood,Yes
+EM,486785,Malican,Frontier - Gold,9/25/2023,The Hospitals of Providence Transmountain,El Paso,TX,El Paso,Yes
+EM,496089,Dawson,Southwestern - Yellow,9/10/2023,Bethesda Hospital East-PEDS,Boynton Beach,FL,Palm Beach,
+EM,496152,Brown,CS Connect EM,9/1/2023,CHRISTUS Ochsner Lake Area Hospital,Lake Charles,LA,Calcasieu,Yes
+EM,496153,Brown,CS Connect EM,9/1/2023,CHRISTUS Ochsner St. Patrick Hospital,Lake Charles,LA,Calcasieu,Yes
+EM,496154,Brown,CS Connect EM,9/1/2023,CHRISTUS St. Frances Cabrini Hospital,Alexandria,LA,Rapides,Yes
+EM,496155,Brown,CS Connect EM,9/1/2023,CHRISTUS Bossier Emergency Hospital,Bossier City,LA,Bossier,Yes
+EM,496156,Brown,CS Connect EM,9/1/2023,CHRISTUS Highland Medical Center,Shreveport,LA,Caddo,Yes
+EM,496159,Brown,CS Connect EM,9/1/2023,CHRISTUS Spohn Hospital-Alice,Alice,TX,Jim Wells,Yes
+EM,496160,Brown,CS Connect EM,9/1/2023,CHRISTUS Spohn Hospital-Beeville,Beeville,TX,Bee,Yes
+EM,496161,Brown,CS Connect EM,9/1/2023,CHRISTUS Spohn Hospital-Kleberg,Kingsville,TX,Kleberg,Yes
+EM,496162,Brown,CS Connect EM,9/1/2023,CHRISTUS Spohn Hospital Corpus Christi-Shoreline,Corpus Christi,TX,Nueces,Yes
+EM,496163,Brown,CS Connect EM,9/1/2023,CHRISTUS Spohn Hospital Corpus Christi-South,Corpus Christi,TX,Nueces,Yes
+EM,496164,Brown,CS Connect EM,9/1/2023,CHRISTUS Southeast Texas-St. Elizabeth Hospital,Beaumont,TX,Jefferson,Yes
+EM,496165,Brown,CS Connect EM,9/1/2023,CHRISTUS St. Mary Outpatient Center Mid County,Port Arthur,TX,Jefferson,Yes
+EM,496166,Brown,CS Connect EM,9/1/2023,CHRISTUS Southeast Texas-Jasper Memorial,Jasper,TX,Jasper,Yes
+HM,496167,Sherani,CS Connect ISV,9/1/2023,CHRISTUS Spohn Hospital Corpus Christi-Shoreline-CC,Corpus Christi,TX,Nueces,Yes
+HM,496168,Sherani,CS Connect ISV,9/1/2023,CHRISTUS Southeast Texas-St. Elizabeth Hospital-CC,Beaumont,TX,Jefferson,Yes
+EM,482995,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence East Campus,El Paso,TX,El Paso,Yes
+EM,484309,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Sierra Campus,El Paso,TX,El Paso,Yes
+EM,487798,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Horizon City Campus,Horizon City,TX,El Paso,yes
+EM,487800,Malican,Frontier - Gold,8/25/2023,Providence Children's Hospital,El Paso,TX,El Paso,no
+EM,489108,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Northeast Campus,El Paso,TX,El Paso,yes
+EM,489202,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Emergency Room Edgemere,El Paso,TX,El Paso,Yes
+EM,490124,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Emergency Room Montwood,El Paso,TX,El Paso,yes
+EM,5572,Malican,Frontier - Gold,8/25/2023,The Hospitals of Providence Memorial Campus,El Paso,TX,El Paso,Yes
+HM,495057,Core,Horizon - Green,8/3/2023,Mount Sinai Medical Center-ISV,Miami Beach,FL,Miami-Dade,No
+EM,10829,Malican,Heartland - Blue,8/1/2023,Franciscan Health Munster,Munster,IN,Lake,Yes
+EM,2019,Malican,Heartland - Blue,8/1/2023,Franciscan Health Dyer,Dyer,IN,Lake,Yes
+EM,2020,Malican,Heartland - Blue,8/1/2023,Franciscan Health Crown Point,Crown Point,IN,Lake,Yes
+EM,2080,Malican,Heartland - Blue,8/1/2023,Franciscan Health Crawfordsville,Crawfordsville,IN,Montgomery,Yes
+EM,2081,Malican,Heartland - Blue,8/1/2023,Franciscan Health Rensselaer,Rensselaer,IN,Jasper,Yes
+EM,489180,Brown,CS Connect EM,8/1/2023,CHRISTUS Good Shepherd-NorthPark Medical Plaza-Emergency Room,Longview,TX,Gregg,Yes
+EM,490966,Malican,Heartland - Blue,8/1/2023,Franciscan Health Michigan City,Michigan City,IN,LaPorte,Yes
+EM,496107,Malican,Heartland - Blue,8/1/2023,Franciscan Health Michigan City at LaPorte-ICP,La Porte,IN,La Porte,Yes
+EM,496128,Malican,Heartland - Blue,8/1/2023,Franciscan Emergency Center Chesterton,Chesterton,IN,Porter,Yes
+EM,496129,Malican,Heartland - Blue,8/1/2023,Franciscan Health Lafayette East,Lafayette,IN,Tippecanoe,Yes
+EM,496144,Malican,Heartland - Blue,8/1/2023,Franciscan Health Michigan City-OBS,Michigan City,IN,LaPorte,Yes
+HM,496145,Malican,Heartland - Purple,8/1/2023,Franciscan Health Michigan City at LaPorte-ICPHM,La Porte,IN,La Porte,Yes
+EM,5446,Dawson,Sierra - Silver,8/1/2023,TriStar NorthCrest Medical Center,Springfield,TN,Robertson,Yes
+EM,5630,Brown,CS Connect EM,8/1/2023,CHRISTUS Good Shepherd Emergency Center-Kilgore,Kilgore,TX,Gregg,Yes
+EM,5639,Brown,CS Connect EM,8/1/2023,CHRISTUS Good Shepherd Medical Center-Longview,Longview,TX,Gregg,Yes
+EM,5648,Brown,CS Connect EM,8/1/2023,CHRISTUS Good Shepherd Medical Center-Marshall,Marshall,TX,Harrison,Yes
+EM,5751,Brown,CS Connect EM,8/1/2023,CHRISTUS St. Michael Hospital-Atlanta,Atlanta,TX,Cass,Yes
+EM,5894,Brown,CS Connect EM,8/1/2023,CHRISTUS St. Michael Hospital,Texarkana,TX,Bowie,Yes
+HM,324662,Core,Horizon - Silver,7/17/2023,Atrium Health Navicent Peach-Hospitalist,Byron,GA,Peach,No - 5/18/23
+HM,495549,Core,Horizon - Green,7/17/2023,Atrium Health Navicent Peach-HM-TELE,Byron,GA,Peach,No - 5/18/23
+HM,494983,Core,Horizon - Green,4/17/2023,ProHealth Oconomowoc Memorial Hospital-ISV,Oconomowoc,WI,Waukesha,
+HM,494984,Core,Horizon - Green,4/17/2023,ProHealth Waukesha Memorial Hospital-ISV,Waukesha,WI,Waukesha,
+EM,90,Dawson,Sierra - Yellow,11/1/2022,Merit Health Biloxi,Biloxi,MS,Harrison,Yes (new as of 6/2023)
+HM,494560,Core,Horizon - Green,10/10/2022,Lima Memorial Health System-ISV,Lima,OH,Allen,no
+EM,1395,Dawson,Sierra - Silver,10/1/2022,Piedmont Cartersville Medical Center,Cartersville,GA,Bartow,Yes- 8/11/22
+HM,494867,Core,Horizon - Silver,10/1/2022,Piedmont Cartersville Medical Center-HM,Cartersville,GA,Bartow,Yes -8/11/22
+HM,494671,Core,Horizon - Green,9/29/2022,Harrison County Hospital-Hospitalist,Corydon,IN,Harrison,No
+EM,494881,Dawson,Sierra - Silver,9/28/2022,Indian Path Community Hospital - PEDS,Kingsport,TN,Sullivan,Yes
+EM,4504,Malican,Frontier - Blue,7/28/2022,Henry County Hospital,Napoleon,OH,Henry,No
+EM,494100,Dawson,Sierra - Silver,7/19/2022,Blue Hill Emergency Center,Roanoke,VA,Roanoke,Yes
+EM,484982,Malican,Frontier - Gold,6/1/2022,Trios Southridge Hospital,Kennewick,WA,Benton,Yes
+EM,1260,Dawson,Southwestern - Yellow,3/15/2022,HCA Florida Capital Hospital,Tallahassee,FL,Leon,Yes
+EM,494361,Dawson,Southwestern - Yellow,3/15/2022,HCA Florida Gadsden Emergency,Quincy,FL,Gadsden,Yes
+EM,494362,Dawson,Southwestern - Yellow,3/15/2022,HCA Florida Southwood Emergency,Tallahassee,FL,Leon,Yes
+EM,494363,Dawson,Southwestern - Yellow,3/15/2022,HCA Florida Lake Jackson Emergency,Tallahassee,FL,Leon,Yes
+HM,494364,Core,Horizon - Yellow,3/15/2022,HCA Florida Capital Hospital-Hospitalist,Tallahassee,FL,Leon,Yes
+HM,475749,Core,Horizon - Green,2/1/2022,HCA HealthONE Rose - Hospitalist,Denver,CO,Denver,Yes
+HM,475751,Core,Horizon - Green,2/1/2022,HCA HealthONE Swedish-Hospitalist,Englewood,CO,Arapahoe,Yes
+EM,484359,Peebles,Delta - Black,12/1/2021,Iberia Medical Center-North Campus,New Iberia,LA,Iberia,No
+HM,483485,Core,Horizon - Green,11/1/2021,Carlinville Area Hospital-Hospitalist,Carlinville,IL,Macoupin,Yes
+EM,9057,Dawson,Sierra - Silver,11/1/2021,Garnet Health Medical Center-Catskills-Callicoon Campus-ICP,Callicoon,NY,Sullivan,Yes
+EM,493933,Dawson,Sierra - Silver,7/1/2021,Bristol Regional Medical Center-PEDS,Bristol,TN,Sullivan,Yes
+EM,5338,Dawson,Sierra - Silver,7/1/2021,Bristol Regional Medical Center,Bristol,TN,Sullivan,Yes
+EM,5365,Dawson,Sierra - Silver,7/1/2021,Greeneville Community Hospital East,Greeneville,TN,Greene,Yes
+EM,5380,Dawson,Sierra - Silver,7/1/2021,Holston Valley Medical Center,Kingsport,TN,Sullivan,Yes
+EM,5381,Dawson,Sierra - Silver,7/1/2021,Indian Path Community Hospital,Kingsport,TN,Sullivan,Yes
+EM,6074,Dawson,Sierra - Silver,7/1/2021,Lonesome Pine Hospital-ICP,Big Stone Gap,VA,Wise,Yes
+EM,6126,Dawson,Sierra - Silver,7/1/2021,Lee County Community Hospital-ICP,Pennington Gap,VA,Lee,Yes
+EM,8804,Dawson,Sierra - Silver,7/1/2021,Hawkins County Memorial Hospital-ICP,Rogersville,TN,Hawkins,Yes
+EM,8816,Dawson,Sierra - Silver,7/1/2021,Hancock County Hospital-ICP,Sneedville,TN,Hancock,Yes
+EM,199073,Brimmer,Delta - Red,5/12/2021,Cornerstone Specialty Hospitals Southwest Louisiana,Lake Charles,LA,,Yes
+EM,1633,Malican,Heartland - Blue,5/8/2021,Greene County Medical Center-ICP,Jefferson,IA,Greene,Yes
+EM,2528,Peebles,Delta - Black,2/1/2021,Ochsner St. Anne Hospital,Raceland,LA,Lafourche,yes
+EM,493430,Malican,Frontier - Blue,1/27/2021,OhioHealth Emergency Care-Ashland,Ashland,OH,Ashland,Yes - CAQH
+EM,2103,Malican,Heartland - Blue,12/1/2020,Harrison County Hospital,Corydon,IN,Harrison,No
+HM,493539,Schillinger,Southwestern - Yellow,11/16/2020,Mount Sinai Medical Center Hialeah Free Standing Emergency Department-OBS,Hialeah,FL,Miami-Dade,No
+EM,491417,Peebles,Delta - Black,11/9/2020,Baton Rouge General Medical Center-Ascension Campus,Prairieville,LA,Ascension,Yes
+EM,2372,Dawson,Southwestern - Yellow,11/1/2020,Rockcastle Regional Hospital and Respiratory Care Center,Mount Vernon,KY,Rockcastle,No
+HM,416689,Core,Horizon - Silver,10/1/2020,Moberly Regional Medical Center - Hospitalist,Moberly,MO,Randolph,No
+HM,491469,Core,Horizon - Silver,9/1/2020,Northeast Regional Medical Center-Hospitalist,Kirksville,MO,Adair,1/11/24-Yes
+EM,3232,Malican,Heartland - Gold,8/1/2020,Northeast Regional Medical Center,Kirksville,MO,Adair,1/11/24-Yes
+HM,489668,Core,Horizon - Green,8/1/2020,AdventHealth Ocala - ISV,Ocala,FL,Marion,Yes
+EM,3228,Malican,Heartland - Gold,7/30/2020,Moberly Regional Medical Center,Moberly,MO,Randolph,
+EM,490914,Malican,Frontier - Gold,7/11/2020,Laredo Medical Center - North Central ER,Laredo,TX,Webb,No
+EM,2443,Peebles,Delta - Black,6/15/2020,The General,Baton Rouge,LA,E Baton Rouge,Yes
+EM,2355,Dawson,Southwestern - Yellow,5/1/2020,Three Rivers Medical Center,Louisa,KY,Lawrence,No
+EM,2377,Dawson,Southwestern - Yellow,5/1/2020,Paintsville ARH Hospital,Paintsville,KY,Johnson,No
+EM,2435,Dawson,Southwestern - Yellow,5/1/2020,Kentucky River Medical Center,Jackson,KY,Breathitt,No
+EM,3042,Malican,Heartland - Blue,1/19/2020,Hillsdale Hospital,Hillsdale,MI,Hillsdale,Yes
+EM,2336,Dawson,Southwestern - Yellow,1/1/2020,Harlan ARH Hospital,Harlan,KY,Harlan,No
+HM,489726,Hoskins,Colonial - Blue,12/1/2019,UMMC Grenada - Hospitalist,Grenada,MS,Grenada,Yes
+EM,489595,Malican,Frontier - Gold,11/19/2019,Doctors Hospital Emergency Room Saunders,Laredo,TX,Webb,no
+EM,3400,Hoskins,Colonial - Blue,11/1/2019,UMMC Grenada,Grenada,MS,Grenada,YES
+EM,3386,Dawson,Sierra - Yellow,10/1/2019,Baptist Memorial Hospital Leake - ICP,Carthage,MS,Leake,no
+EM,3458,Dawson,Sierra - Yellow,10/1/2019,Baptist Memorial Hospital Calhoun - ICP,Calhoun City,MS,Calhoun,yes
+EM,9160,Dawson,Sierra - Yellow,10/1/2019,Baptist Memorial Hospital Yazoo - ICP,Yazoo City,MS,Yazoo,no
+EM,489476,Peebles,Delta - Black,8/1/2019,Acadia Extended Care Hospital,Crowley,LA,Acadia,No
+UC,490216,Peebles,Delta - Red,8/1/2019,Abbeville General Hospital - UC,Abbeville,LA,Vermillion,No
+EM,1648,Malican,Heartland - Blue,7/1/2019,MercyOne Siouxland Medical Center,Sioux City,IA,Woodbury,Yes
+EM,692,Malican,Southwestern - Blue,7/1/2019,Chinese Hospital,San Francisco,CA,San Francisco,No
+EM,183,Malican,Heartland - Gold,6/1/2019,Dardanelle Regional Medical Center - ICP,Dardanelle,AR,Yell,No
+EM,489629,Malican,Frontier - Gold,6/1/2019,PAM Specialty Hospital of Victoria North,Victoria,TX,Victoria,No
+EM,1406,Dawson,Sierra - Silver,5/1/2019,Piedmont Rockdale Hospital,Conyers,GA,Rockdale,Yes
+EM,2464,Peebles,Delta - Black,5/1/2019,DeQuincy Memorial Hospital,DeQuincy,LA,Calcasieu,Yes
+EM,2497,Peebles,Delta - Black,5/1/2019,Sabine Medical Center,Many,LA,Sabine,Yes
+EM,120936,Peebles,Delta - Black,4/1/2019,Bienville Medical Center,Arcadia,LA,Bienville,Yes
+EM,2492,Peebles,Delta - Black,4/1/2019,Byrd Regional Hospital,Leesville,LA,Vernon,yes
+EM,2498,Peebles,Delta - Black,4/1/2019,Avoyelles Hospital,Marksville,LA,Avoyelles,Yes
+EM,36,Peebles,Delta - Black,4/1/2019,Oakdale Community Hospital,Oakdale,LA,Allen,Yes
+EM,41,Peebles,Delta - Black,4/1/2019,Winn Parish Medical Center,Winnfield,LA,Winn,Yes
+EM,488965,Dawson,Southwestern - Yellow,3/11/2019,AdventHealth Four Corners ER,Winter Garden,FL,Orange,Yes
+EM,6295,Malican,Frontier - Gold,3/5/2019,Astria Toppenish Hospital,Toppenish,WA,Yakima,No
+EM,488496,Malican,Frontier - Gold,1/2/2019,STHS ER Alamo,Alamo,TX,Hidalgo,No
+HM,475746,Core,Horizon - Yellow,1/1/2019,AdventHealth Lake Wales - Hospitalist,Lake Wales,FL,Polk,Yes
+EM,488739,Schillinger,Southwestern - Yellow,11/12/2018,Mount Sinai Medical Center Hialeah Free Standing Emergency Department,Hialeah,FL,Miami-Dade,No
+EM,1097,Dawson,Southwestern - Yellow,11/1/2018,AdventHealth Heart of Florida,Davenport,FL,Polk,Yes
+EM,11420,Peebles,Delta - Black,11/1/2018,WK Bossier Health Center,Bossier City,LA,Bossier,Yes
+EM,2534,Peebles,Delta - Black,11/1/2018,Willis-Knighton South & The Center for Women's Health,Shreveport,LA,Caddo,Yes
+EM,2536,Peebles,Delta - Black,11/1/2018,Willis-Knighton Medical Center,Shreveport,LA,Caddo,Yes
+HM,416735,Core,Horizon - Yellow,11/1/2018,AdventHealth Heart of Florida - Hospitalist,Davenport,FL,Polk,Yes
+EM,9961,Peebles,Delta - Black,11/1/2018,WK Pierremont Health Center,Shreveport,LA,Caddo,Yes
+EM,488495,Malican,Frontier - Gold,10/1/2018,STHS ER Ware Road,McAllen,TX,Hidalgo,No
+HM,488693,Core,Horizon - Green,10/1/2018,Forrest City Medical Center - Hospitalist,Forrest City,AR,St. Francis,No
+HM,475747,Schillinger,Southwestern - Yellow,9/1/2018,Mount Sinai Medical Center - Hospitalist,Miami Beach,FL,Miami-Dade,No
+EM,2590,Peebles,Delta - Black,7/22/2018,Ochsner Medical Center - Baton Rouge,Baton Rouge,LA,E Baton Rouge,Yes
+HM,488546,Hoskins,Colonial - Black,7/22/2018,Ochsner Medical Center - Baton Rouge - Hospitalist,Baton Rouge,LA,E Baton Rouge,Yes
+HM,272550,Core,Horizon - Silver,7/3/2018,LewisGale Medical Center - Hospitalist,Salem,VA,Roanoke,Yes
+HM,281717,Core,Horizon - Silver,7/3/2018,LewisGale Hospital-Montgomery - Hospitalist,Blacksburg,VA,Montgomery,Yes
+HM,488636,Core,Horizon - Silver,7/3/2018,LewisGale Hospital-Alleghany - Hospitalist,Low Moor,VA,Alleghany,Yes
+HM,488637,Core,Horizon - Silver,7/3/2018,LewisGale Hospital-Pulaski - Hospitalist,Pulaski,VA,Pulaski,Yes
+EM,488639,Dawson,Sierra - Silver,7/3/2018,Cave Spring Emergency Center,Cave Spring,VA,Roanoke,Yes
+EM,6075,Dawson,Sierra - Silver,7/3/2018,LewisGale Hospital-Montgomery,Blacksburg,VA,Montgomery,Yes
+EM,6108,Dawson,Sierra - Silver,7/3/2018,LewisGale Hospital-Alleghany,Low Moor,VA,Alleghany,Yes
+EM,6132,Dawson,Sierra - Silver,7/3/2018,LewisGale Hospital-Pulaski,Pulaski,VA,Pulaski,Yes
+EM,6149,Dawson,Sierra - Silver,7/3/2018,LewisGale Medical Center,Salem,VA,Roanoke,Yes
+EM,487747,Malican,Frontier - Gold,7/2/2018,STHS ER McColl,Edinburg,TX,Hidalgo,No
+EM,2366,Dawson,Southwestern - Yellow,7/1/2018,ARH Our Lady of the Way Hospital,Martin,KY,Floyd,No
+EM,1422,Dawson,Sierra - Silver,6/1/2018,Putnam General Hospital,Eatonton,GA,Putnam,no
+HM,488772,Hoskins,Colonial - Black,5/31/2018,Louisiana Extended Care Hospital of Lafayette - Hospitalist,Lafayette,LA,Lafayette,NO
+EM,488877,Peebles,Delta - Black,5/31/2018,Louisiana Extended Care Hospital of Lafayette,Lafayette,LA,Lafayette,No
+EM,1491,Dawson,Sierra - Silver,4/16/2018,Upson Regional Medical Center,Thomaston,GA,Upson,no
+HM,480170,Core,Horizon - Silver,4/16/2018,Upson Regional Medical Center-Hospitalist,Thomaston,GA,Upson,No - 6.30.22
+EM,6068,Dawson,Sierra - Silver,4/1/2018,Johnston Memorial Hospital,Abingdon,VA,Washington,Yes
+EM,6105,Dawson,Sierra - Silver,4/1/2018,Russell County Hospital,Lebanon,VA,Russell,Yes
+EM,6114,Dawson,Sierra - Silver,4/1/2018,Smyth County Community Hospital,Marion,VA,Smyth,Yes
+EM,5433,Dawson,Heartland - Silver,3/25/2018,Henry County Medical Center,Paris,TN,Henry,Yes
+HM,486844,Hoskins,Colonial - Black,2/19/2018,St. Bernard Parish Hospital-Hospitalist,Chalmette,LA,St. Bernard,Yes
+EM,486737,Malican,Frontier - Gold,1/9/2018,STHS ER at Monte Cristo,Edinburg,TX,Hidalgo,No
+EM,404452,Dawson,Sierra - Yellow,9/1/2017,Hoke Hospital,Raeford,NC,Hoke,Yes
+EM,485492,Malican,Frontier - Blue,8/23/2017,OhioHealth Emergency Care-Ontario,Ontario,OH,Richland,Yes - CAQH
+EM,484584,Peebles,Delta - Black,5/1/2017,St. Bernard Parish Hospital,Chalmette,LA,St. Bernard,Yes
+EM,483412,Dawson,Sierra - Silver,4/1/2017,Johnson City Medical Center-Observation,Johnson City,TN,Washington,Yes
+EM,5359,Dawson,Sierra - Silver,4/1/2017,Sycamore Shoals Hospital,Elizabethton,TN,Carter,Yes
+EM,5360,Dawson,Sierra - Silver,4/1/2017,Unicoi County Hospital-ICP,Erwin,TN,Unicoi,Yes
+EM,5377,Dawson,Sierra - Silver,4/1/2017,Johnson City Medical Center,Johnson City,TN,Washington,Yes
+EM,5483,Dawson,Sierra - Silver,4/1/2017,Johnson County Community Hospital-ICP,Mountain City,TN,Johnson,Yes
+EM,6124,Dawson,Sierra - Silver,4/1/2017,Norton Community Hospital Campus of Lonesome Pine,Norton,VA,Wise,Yes
+EM,6182,Dawson,Sierra - Silver,4/1/2017,Dickenson Community Hospital-ICP,Clintwood,VA,Dickenson,Yes
+EM,7150,Dawson,Sierra - Silver,4/1/2017,Niswonger Children's Hospital-PEDS,Johnson City,TN,Washington,Yes
+EM,72395,Dawson,Sierra - Silver,4/1/2017,Franklin Woods Community Hospital,Johnson City,TN,Washington,Yes
+EM,1890,Malican,Heartland - Gold,2/1/2017,Ferrell Hospital-ICP,Eldorado,IL,Saline,No
+EM,4044,Malican,Frontier - Gold,2/1/2017,Dr. Dan C. Trigg Memorial Hospital-ICP,Tucumcari,NM,Quay,Yes
+EM,3559,Dawson,Sierra - Yellow,1/3/2017,Swain Community Hospital - ICP,Bryson City,NC,Swain,yes
+HM,364889,Dawson,Sierra - Yellow,1/3/2017,Swain Community Hospital - Hospitalist - ICP,Bryson City,NC,Swain,yes
+HM,435704,Core,Horizon - Blue,1/3/2017,Medical Center Enterprise - Hospitalist,Enterprise,AL,Coffee,No
+HM,255703,Core,Horizon - Yellow,12/1/2016,Harris Regional Hospital - Hospitalist,Sylva,NC,Jackson,yes
+HM,478082,Core,Horizon - Yellow,11/30/2016,Broward Health Imperial Point - Hospitalist,Fort Lauderdale,FL,Broward,Yes
+HM,478085,Core,Horizon - Yellow,11/30/2016,Broward Health Coral Springs - Hospitalist,Coral Springs,FL,Broward,Yes
+EM,213,Malican,Heartland - Gold,11/1/2016,Conway Regional Medical Center,Conway,AR,Faulkner,No
+HM,483471,Core,Horizon - Green,10/25/2016,Lima Memorial Health System-Hospitalist,Lima,OH,Allen,no
+EM,2423,Dawson,Southwestern - Yellow,9/18/2016,Highlands ARH Regional Medical Center,Prestonsburg,KY,Floyd,No
+EM,4218,Dawson,Sierra - Silver,8/1/2016,Community Memorial Hospital,Hamilton,NY,Madison,No
+EM,10267,Dawson,Southwestern - Yellow,6/16/2016,Melbourne Regional Medical Center,Melbourne,FL,Brevard,No
+EM,1163,Dawson,Southwestern - Yellow,6/16/2016,Rockledge Regional Medical Center,Rockledge,FL,Brevard,No
+HM,205052,Core,Colonial - Yellow,6/16/2016,Rockledge Regional Medical Center - Hospitalist,Rockledge,FL,Brevard,no
+EM,1457,Dawson,Sierra - Silver,5/16/2016,Atrium Health Navicent Baldwin,Milledgeville,GA,Baldwin,no
+EM,1198,Dawson,Southwestern - Yellow,2/1/2016,Sebastian River Medical Center,Sebastian,FL,Indian River,No
+UC,482964,Malican,Heartland - Blue,1/4/2016,Mackinac Island Medical Center-UC,Mackinac Island,MI,Mackinac,No
+HM,475750,Core,Colonial - Yellow,1/1/2016,Sebastian River Medical Center - Hospitalist,Sebastian,FL,Indian River,no
+EM,2964,Malican,Heartland - Blue,12/27/2015,Mackinac Straits Health System-ICP,Saint Ignace,MI,Mackinac,No
+EM,2312,Dawson,Southwestern - Yellow,12/1/2015,Barbourville ARH Hospital,Barbourville,KY,Knox,No
+HM,302425,Hoskins,Colonial - Black,12/1/2015,Ochsner American Legion Hospital-Hospitalist,Jennings,LA,Jefferson Davis,NO
+UC,482961,Malican,Heartland - Gold,12/1/2015,Jefferson Regional Medical Center - Urgent Care Center-UC,Pine Bluff,AR,Jefferson,No
+EM,182,Malican,Heartland - Gold,10/1/2015,Johnson Regional Medical Center,Clarksville,AR,Johnson,No
+EM,249,Malican,Heartland - Gold,10/1/2015,Jefferson Regional Medical Center,Pine Bluff,AR,Jefferson,No
+HM,458223,Hoskins,Colonial - Black,10/1/2015,Ochsner Abrom Kaplan Memorial Hospital-Hospitalist,Kaplan,LA,Vermilion,Yes
+HM,458224,Hoskins,Colonial - Black,10/1/2015,Ochsner Acadia General Hospital - American Legion Post 15-Hospitalist,Crowley,LA,Acadia,Yes
+EM,3333,Malican,Heartland - Gold,9/1/2015,Washington County Memorial Hospital-ICP,Potosi,MO,Washington,no
+EM,374941,Malican,Frontier - Gold,8/17/2015,Doctors Hospital Emergency Room South,Laredo,TX,Webb,no
+EM,5539,Malican,Frontier - Gold,6/1/2015,Driscoll Children's Hospital-PEDS,Corpus Christi,TX,Nueces,Yes
+EM,346,Malican,Southwestern - Blue,4/28/2015,Western Arizona Regional Medical Center,Bullhead City,AZ,Mohave,No
+HM,395470,Core,Horizon - Green,4/28/2015,Western Arizona Regional Medical Center - Hospitalist,Bullhead City,AZ,Mohave,yes as of 01/24
+EM,4502,Malican,Frontier - Blue,4/1/2015,Parkview Bryan Hospital,Bryan,OH,Williams,No
+EM,4594,Malican,Frontier - Blue,4/1/2015,Parkview Montpelier Hospital,Montpelier,OH,Williams,No
+EM,30588,Malican,Frontier - Gold,3/2/2015,STHS ER at Mission,Mission,TX,Hidalgo,No
+EM,1796,Malican,Heartland - Gold,3/1/2015,CHI St. Vincent North,Sherwood,AR,Pulaski,No
+EM,194,Malican,Heartland - Gold,3/1/2015,CHI St. Vincent Hot Springs,Hot Springs,AR,Garland,No
+EM,198,Malican,Heartland - Gold,3/1/2015,CHI St. Vincent Infirmary Medical Center,Little Rock,AR,Pulaski,No
+EM,204,Malican,Heartland - Gold,3/1/2015,CHI St. Vincent Morrilton,Morrilton,AR,Conway,No
+EM,2513,Peebles,Delta - Black,3/1/2015,New Orleans East Hospital,New Orleans,LA,Orleans,Yes
+EM,4524,Malican,Frontier - Blue,3/1/2015,OhioHealth Shelby Hospital,Shelby,OH,Richland,Yes - CAQH
+HM,469582,Hoskins,Colonial - Blue,2/1/2015,Baptist Memorial Hospital-North Mississippi - HM,Oxford,MS,Lafayette,Yes
+EM,59237,Malican,Frontier - Gold,1/5/2015,STHS ER at Weslaco,Weslaco,TX,Hidalgo,No
+EM,2572,Peebles,Delta - Black,12/1/2014,Iberia Medical Center,New Iberia,LA,Iberia,No
+HM,351095,Hoskins,Colonial - Black,12/1/2014,Iberia Medical Center - Hospitalist,New Iberia,LA,Iberia,Yes as of 1/31/24
+HM,416680,Hoskins,Colonial - Gold,12/1/2014,Navarro Regional Hospital - Hospitalist,Corsicana,TX,Navarro,No
+EM,1820,Malican,Heartland - Gold,11/12/2014,Saint Anthony's Health Center,Alton,IL,Madison,no
+EM,2461,Peebles,Delta - Black,10/30/2014,Ochsner Acadia General Hospital - American Legion Post 15,Crowley,LA,Acadia,Yes
+EM,3407,Dawson,Sierra - Yellow,10/1/2014,Baptist Medical Center,Jackson,MS,Hinds,no
+EM,2563,Peebles,Delta - Black,9/11/2014,Ochsner University Hospital & Clinics,Lafayette,LA,Lafayette,Yes
+HM,130573,Hoskins,Colonial - Gold,9/1/2014,Woodland Heights Medical Center - Hospitalist,Lufkin,TX,Angelina,No
+EM,3377,Peebles,Delta - Black,9/1/2014,Ochsner Medical Center - Hancock,Bay Saint Louis,MS,Hancock,Yes
+EM,3580,Dawson,Sierra - Yellow,9/1/2014,UNC Rockingham Health Care,Eden,NC,Rockingham,yes
+EM,6702,Dawson,Sierra - Yellow,8/1/2014,Riverview Regional Medical Center,Gadsden,AL,Etowah,no
+EM,6289,Malican,Frontier - Gold,6/1/2014,Astria Sunnyside Hospital,Sunnyside,WA,Yakima,No
+EM,5719,Malican,Frontier - Gold,5/21/2014,Wadley Regional Medical Center (OLD),Texarkana,TX,Bowie,No
+EM,7198,Dawson,Sierra - Yellow,4/1/2014,Medical Center Enterprise,Enterprise,AL,Coffee,no
+EM,2515,Peebles,Delta - Black,2/15/2014,Ochsner Baptist Medical Center,New Orleans,LA,Orleans,Yes
+HM,323420,Hoskins,Colonial - Black,2/10/2014,Ochsner Lafayette General Medical Center-Hospitalist,Lafayette,LA,Lafayette,Yes
+EM,1661,Malican,Heartland - Blue,2/1/2014,Gundersen Palmer Lutheran Hospital and Clinics West Union,West Union,IA,Fayette,Yes
+EM,3657,Dawson,Sierra - Yellow,12/1/2013,Harris Regional Hospital,Sylva,NC,Jackson,yes
+EM,5645,Malican,Frontier - Gold,11/29/2013,Woodland Heights Medical Center,Lufkin,TX,Angelina,No
+EM,3326,Malican,Heartland - Gold,11/1/2013,Missouri Delta Medical Center,Sikeston,MO,Scott,No
+HM,298263,Core,Horizon - Silver,10/1/2013,Nathan Littauer Hospital & Nursing Home - Nursing Home - Hospitalist,Gloversville,NY,Fulton,no
+EM,1453,Dawson,Sierra - Silver,9/1/2013,Morgan Medical Center,Madison,GA,Morgan,Yes
+EM,2518,Peebles,Delta - Black,8/5/2013,Tulane Medical Center,New Orleans,LA,Orleans,Yes
+EM,1523,Dawson,Sierra - Silver,7/1/2013,Coffee Regional Medical Center,Douglas,GA,Coffee,Yes
+HM,217368,Hoskins,Colonial - Black,3/4/2013,Ochsner St. Martin Hospital-Hospitalist,Breaux Bridge,LA,St. Martin,Yes
+HM,200276,Core,Horizon - Green,3/1/2013,Hillsdale Hospital-Hospitalist,Hillsdale,MI,Hillsdale,No
+EM,4215,Dawson,Sierra - Silver,3/1/2013,Nathan Littauer Hospital & Nursing Home,Gloversville,NY,Fulton,No
+HM,483465,Core,Horizon - Blue,3/1/2013,Hillsdale Hospital-Hospitalist-SNF,Hillsdale,MI,Hillsdale,No
+EM,461391,Dawson,Southwestern - Yellow,1/8/2013,Bethesda Hospital West,Boynton Beach,FL,Palm Beach,Yes
+EM,2451,Peebles,Delta - Black,1/1/2013,Ochsner St. Martin Hospital,Breaux Bridge,LA,St. Martin,Yes
+HM,168435,Core,Horizon - Silver,12/2/2012,SSM Health St. Mary's Hospital - Jefferson City-Hospitalist,Jefferson City,MO,Cole,No
+EM,2562,Peebles,Delta - Black,12/1/2012,Ochsner Lafayette General Medical Center,Lafayette,LA,Lafayette,Yes
+HM,183768,Core,Horizon - Silver,11/12/2012,Nathan Littauer Hospital & Nursing Home - Hospitalist,Gloversville,NY,Fulton,No
+EM,5439,Dawson,Heartland - Silver,11/1/2012,Hardin Medical Center,Savannah,TN,Hardin,No
+EM,3412,Dawson,Sierra - Yellow,10/1/2012,Baptist Memorial Hospital-Attala-ICP,Kosciusko,MS,Attala,no
+UC,482970,Dawson,Sierra - Silver,10/1/2012,Central Square Urgent Care-UC,Central Square,NY,Oswego,No
+EM,2402,Dawson,Southwestern - Yellow,7/1/2012,Hazard ARH Regional Medical Center,Hazard,KY,Perry,No
+EM,1428,Dawson,Sierra - Silver,6/6/2012,Atrium Health Navicent Peach,Byron,GA,Peach,no
+EM,1113,Dawson,Southwestern - Yellow,5/1/2012,AdventHealth Lake Wales,Lake Wales,FL,Polk,Yes
+EM,3314,Malican,Heartland - Gold,5/1/2012,Lake Regional Health System,Osage Beach,MO,Camden,Yes
+EM,5886,Malican,Frontier - Gold,4/23/2012,Citizens Medical Center,Victoria,TX,Victoria,NO
+EM,2361,Peebles,Delta - Black,1/16/2012,Touro Infirmary,New Orleans,LA,Orleans,No
+EM,9078,Dawson,Sierra - Silver,1/1/2012,Garnet Health Medical Center - Catskills,Harris,NY,Sullivan,Yes
+EM,99359,Dawson,Sierra - Silver,1/1/2012,Garnet Health Medical Center,Middletown,NY,Orange,Yes
+EM,1499,Dawson,Sierra - Silver,11/1/2011,Memorial Health Meadows Hospital,Vidalia,GA,Toombs,Yes
+EM,3652,Dawson,Sierra - Yellow,10/1/2011,Alleghany Memorial Hospital - ICP,Sparta,NC,Alleghany,no
+EM,6513,Dawson,Southwestern - Yellow,10/1/2011,CAMC Plateau Medical Center,Oak Hill,WV,Fayette,No
+EM,2916,Malican,Heartland - Blue,4/10/2011,McKenzie Health System-ICP,Sandusky,MI,Sanilac,No
+EM,2439,Peebles,Delta - Black,12/1/2010,Abbeville General Hospital,Abbeville,LA,Vermillion,Yes
+EM,2557,Peebles,Delta - Black,10/1/2010,Bayou Bend Health System,Franklin,LA,St. Mary,No
+EM,2569,Peebles,Delta - Black,8/1/2010,Tulane Lakeside Hospital,Metairie,LA,Jefferson,Yes
+EM,1463,Dawson,Sierra - Silver,6/24/2010,Piedmont Newnan Hospital,Newnan,GA,Coweta,Yes
+EM,4904,Dawson,Sierra - Silver,5/1/2010,UPMC Williamsport Outpatient Emergency Department,Lock Haven,PA,Clinton,Yes
+EM,1835,Malican,Heartland - Gold,2/1/2010,Hillsboro Area Hospital-ICP,Hillsboro,IL,Montgomery,no
+EM,1246,Dawson,Southwestern - Yellow,12/1/2009,Jackson Health System - Jackson North Medical Center,North Miami Beach,FL,Miami-Dade,Yes
+EM,5813,Malican,Frontier - Gold,9/10/2009,Navarro Regional Hospital,Corsicana,TX,Navarro,No
+EM,4525,Malican,Frontier - Blue,8/22/2009,OhioHealth Mansfield Hospital,Mansfield,OH,Richland,Yes- CAQH
+EM,1806,Malican,Heartland - Gold,8/1/2009,Carlinville Area Hospital,Carlinville,IL,Macoupin,yes
+HM,476742,Hoskins,Colonial - Black,8/1/2009,Northern Louisiana Medical Center - Hospitalist,Ruston,LA,Lincoln,YES
+EM,1676,Malican,Heartland - Blue,7/1/2009,MercyOne Waterloo Medical Center,Waterloo,IA,Black Hawk,Yes
+UC,482969,Dawson,Sierra - Silver,4/1/2009,Fulton Urgent Care Center-UC,Fulton,NY,Oswego,No
+EM,4135,Dawson,Sierra - Silver,11/1/2008,Oswego Hospital,Oswego,NY,Oswego,No
+EM,3665,Dawson,Sierra - Yellow,10/1/2008,Columbus Regional Healthcare System,Whiteville,NC,Columbus,no
+EM,2586,Peebles,Delta - Black,9/1/2008,Northern Louisiana Medical Center,Ruston,LA,Lincoln,Yes
+EM,2609,Peebles,Delta - Black,7/1/2008,Baton Rouge General Medical Center,Baton Rouge,LA,E Baton Rouge,Yes
+EM,469600,Schillinger,Southwestern - Yellow,1/28/2008,Mount Sinai Medical Center Aventura Emergency Room,Aventura,FL,Miami-Dade,No
+EM,2424,Dawson,Southwestern - Yellow,7/1/2007,Tug Valley ARH Regional Medical Center,South Williamson,KY,Pike,No
+EM,5187,Dawson,Sierra - Yellow,7/1/2007,Abbeville Area Medical Center,Abbeville,SC,Abbeville,No
+EM,6475,Dawson,Southwestern - Yellow,7/1/2007,Summers County ARH Hospital,Hinton,WV,Summers,No
+EM,6487,Dawson,Southwestern - Yellow,7/1/2007,Beckley ARH Hospital,Beckley,WV,Raleigh,No
+EM,7560,Dawson,Southwestern - Yellow,7/1/2007,Middlesboro ARH Hospital,Middlesboro,KY,Bell,No
+EM,1441,Dawson,Sierra - Silver,6/1/2007,Wayne Memorial Hospital,Jesup,GA,Wayne,no
+EM,5743,Malican,Frontier - Gold,12/4/2006,Big Bend Regional Medical Center,Alpine,TX,Brewster,No
+EM,187,Malican,Heartland - Gold,12/1/2006,Forrest City Medical Center,Forrest City,AR,St. Francis,No
+EM,3392,Dawson,Sierra - Yellow,11/1/2006,Baptist Memorial Hospital-Golden Triangle,Columbus,MS,Lowndes,no
+EM,2598,Peebles,Delta - Black,10/1/2006,Ochsner Lafayette General Orthopaedic Hospital,Lafayette,LA,Lafayette,Yes
+HM,8407,Hoskins,Colonial - Black,8/25/2006,Ochsner Lafayette General Orthopaedic Hospital-Hospitalist,Lafayette,LA,Lafayette,Yes
+EM,5634,Malican,Frontier - Gold,6/1/2006,Laredo Medical Center,Laredo,TX,Webb,No
+EM,3035,Malican,Heartland - Blue,4/12/2006,OSF St. Francis Hospital & Medical Group,Escanaba,MI,Delta,No
+EM,2541,Peebles,Delta - Black,2/1/2006,Glenwood Regional Medical Center,West Monroe,LA,Ouachita,No
+EM,245,Malican,Heartland - Gold,1/9/2006,Arkansas Methodist Medical Center,Paragould,AR,Greene,No
+EM,1240,Schillinger,Southwestern - Yellow,11/23/2005,Mount Sinai Medical Center,Miami Beach,FL,Miami-Dade,No
+EM,2341,Dawson,Southwestern - Yellow,10/1/2005,Mary Breckinridge ARH Hospital,Hyden,KY,Leslie,No
+EM,21,Peebles,Delta - Black,10/1/2003,Acadian Medical Center,Eunice,LA,St. Landry,yes
+EM,3434,Dawson,Sierra - Yellow,8/1/2002,Baptist Memorial Hospital - North Mississippi,Oxford,MS,Lafayette,YES
+EM,2364,Dawson,Southwestern - Yellow,7/1/2002,McDowell ARH Hospital,McDowell,KY,Floyd,No
+EM,2390,Dawson,Southwestern - Yellow,7/1/2002,Morgan County ARH Hospital - ICP,West Liberty,KY,Morgan,No
+EM,2392,Dawson,Southwestern - Yellow,7/1/2002,Whitesburg ARH Hospital,Whitesburg,KY,Letcher,No
+EM,5819,Malican,Frontier - Gold,7/1/2002,Medical City Decatur,Decatur,TX,Wise,Yes
+EM,3382,Dawson,Sierra - Yellow,12/1/2001,Baptist Memorial Hospital- Booneville,Booneville,MS,Prentiss,Yes
+EM,5568,Malican,Frontier - Gold,8/1/2001,Fort Duncan Regional Medical Center,Eagle Pass,TX,Maverick,NO
+EM,1502,Dawson,Sierra - Silver,11/1/1999,Warm Springs Medical Center,Warm Springs,GA,Meriwether,no
+EM,74,Peebles,Delta - Black,11/1/1999,Ochsner St. Mary,Morgan City,LA,St. Mary,no
+EM,50,Malican,Frontier - Gold,1/1/1999,Doctors Hospital of Laredo,Laredo,TX,Webb,no
+EM,45,Peebles,Delta - Black,10/7/1998,Mercy Regional Medical Center,Ville Platte,LA,Evangeline,yes
+EM,42,Dawson,Southwestern - Yellow,5/1/1998,Bartow Regional Medical Center,Bartow,FL,Polk,Yes
+UC,482941,Malican,Heartland - Gold,1/1/1998,Advocate Condell Immediate Care Center - Gurnee-UC,Gurnee,IL,Lake,Yes
+UC,482942,Malican,Heartland - Gold,1/1/1998,Advocate Condell Immediate Care Center - Round Lake Beach-UC,Round Lake Beach,IL,Lake,Yes
+UC,482943,Malican,Heartland - Gold,1/1/1998,Advocate Condell Immediate Care Center - Vernon Hills-UC,Vernon Hills,IL,Lake,Yes
+EM,29,Peebles,Delta - Black,2/15/1997,Minden Medical Center,Minden,LA,Webster,no
+EM,8,Peebles,Delta - Black,1/12/1996,Ochsner Abrom Kaplan Memorial Hospital,Kaplan,LA,Vermilion,Yes
+EM,12,Peebles,Delta - Black,11/1/1994,Ochsner American Legion Hospital,Jennings,LA,Jefferson Davis,No
+EM,4451,Malican,Southwestern - Blue,11/1/1985,Knox Community Hospital,Mount Vernon,OH,Knox,No
+EM,1208,Dawson,Southwestern - Yellow,12/1/1982,Bethesda Hospital East,Boynton Beach,FL,Palm Beach,Yes
